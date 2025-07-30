@@ -19,7 +19,7 @@ Loop-based Automation: An elegant for loop was also used in a separate testbench
 
 🛠️ Tools Used
 Verilog HDL
-EDA Playground – Online simulation (Link: )
+EDA Playground – Online simulation (Link: https://edaplayground.com/x/q6kV )
 EPWave Viewer – Waveform visualization
 GTKWave / VCD Dump – Signal tracing
 
